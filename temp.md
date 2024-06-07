@@ -9,7 +9,7 @@
 ##
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlma)](https://solved.ac/dodotlm)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlma)](https://solved.ac/tlma)
 
 ##
 
@@ -17,8 +17,8 @@
 <center> 
   <img
     src="https://images.unsplash.com/photo-1556379092-dca659792591?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D"
-    width="450"
-    height="200"
+    width=100%
+    height=100%
   />
 </center>
 
