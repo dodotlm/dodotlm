@@ -9,9 +9,11 @@
 ##
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlma)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlma)](https://github.com/dodotlm)
 
-## Hi there 👋
+##
+
+
 
 <!--
 **dodotlm/dodotlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
