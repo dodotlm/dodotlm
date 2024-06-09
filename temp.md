@@ -1,4 +1,4 @@
-![Thumbnail](https://github.com/dodotlm/dodotlm/blob/main/123.JPG?raw=true)
+![Thumbnail](https://github.com/dodotlm/dodotlm/blob/main/sd.JPG?raw=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
