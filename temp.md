@@ -13,7 +13,7 @@
 
 ##
 
-<!--이미지는 이런식으로 집어넣으면 된다.-->
+<!--이미지는 이런식으로 집어넣으면 된다.
 <center> 
   <img
     src="https://images.unsplash.com/photo-1556379092-dca659792591?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D"
@@ -21,7 +21,7 @@
     height=100%
   />
 </center>
-
+-->
 
 <!--
 **dodotlm/dodotlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
