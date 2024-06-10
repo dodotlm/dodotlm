@@ -1,14 +1,10 @@
 ![Thumbnail](https://github.com/dodotlm/dodotlm/blob/main/sd.JPG?raw=true)
 <br><br><br><br><br><br><br><br><br>
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=40&pause=1000&color=350662&random=false&width=435&lines=As+for+me...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=40&pause=1000&color=350662&random=false&width=435&lines=As+for+me...)](https://git.io/typing-svg) <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlma)](https://solved.ac/tlma)-->
 ##
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlma)](https://solved.ac/tlma)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodotlm&theme=tokyonight&show_icons=true&size=50%) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodotlm&langs_count=6&theme=tokyonight)
 
 ## <!--요 "##"가 구분선이다.-->
-##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodotlm&theme=tokyonight&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodotlm&langs_count=6&theme=tokyonight)
 
 ##
 
