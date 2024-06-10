@@ -14,6 +14,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dodotlm&bg_color=0B0B3B&color=2E9AFE&line=2E9AFE&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=40&pause=1000&color=350662&random=false&width=435&lines=What+are+you+studying...?)](https://git.io/typing-svg)
 
 <!--이미지는 이런식으로 집어넣으면 된다.
 <center> 
