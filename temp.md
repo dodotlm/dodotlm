@@ -13,6 +13,8 @@
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dodotlm&custom_bg_color=#00FFFF_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--이미지는 이런식으로 집어넣으면 된다.
 <center> 
   <img
